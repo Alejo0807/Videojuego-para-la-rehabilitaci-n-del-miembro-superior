@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: 454c3f1beb3cc054c99335e9cec9b275
+timeCreated: 1519950929
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RECOVER_Untitled-3_2018316500_0
+    21300002: RECOVER_Untitled-3_2018316500_1
+    21300004: RECOVER_Untitled-3_2018316500_2
+    21300006: RECOVER_Untitled-3_2018316500_3
+    21300008: RECOVER_Untitled-3_2018316500_4
+    21300010: RECOVER_Untitled-3_2018316500_5
+    21300012: RECOVER_Untitled-3_2018316500_6
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RECOVER_Untitled-3_2018316500_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 94
+        height: 194
+      alignment: 9
+      pivot: {x: 0.28877655, y: 0.8915822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RECOVER_Untitled-3_2018316500_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 330
+        width: 149
+        height: 168
+      alignment: 9
+      pivot: {x: 0.40730092, y: 0.10433887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RECOVER_Untitled-3_2018316500_2
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 278
+        width: 163
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RECOVER_Untitled-3_2018316500_3
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 126
+        width: 60
+        height: 128
+      alignment: 9
+      pivot: {x: 0.57193846, y: 0.8506998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RECOVER_Untitled-3_2018316500_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 221
+        width: 202
+        height: 65
+      alignment: 9
+      pivot: {x: 0.94017756, y: 0.5531236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RECOVER_Untitled-3_2018316500_5
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 121
+        width: 69
+        height: 125
+      alignment: 9
+      pivot: {x: 0.38740075, y: 0.85911655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RECOVER_Untitled-3_2018316500_6
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 122
+        width: 202
+        height: 65
+      alignment: 9
+      pivot: {x: 0.9145361, y: 0.52656204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
